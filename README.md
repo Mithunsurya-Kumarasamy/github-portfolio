@@ -73,11 +73,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithunsurya-Kumarasamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mithun's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mithunsurya-Kumarasamy&theme=tokyonight" alt="Mithun's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithunsurya-Kumarasamy&theme=tokyonight&hide_border=true&background=0D1117" alt="Mithun's GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithunsurya-Kumarasamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mithunsurya-Kumarasamy&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -106,17 +106,7 @@
 
 ---
 
-### ♟️ Let's Play Chess!
 
-<div align="center">
-  <a href="https://readme-chess.vercel.app/api/move?user=Mithunsurya-Kumarasamy">
-    <img src="https://readme-chess.vercel.app/api/board?theme=tokyonight" alt="Chess Board" />
-  </a>
-  <br>
-  <em>Click on a piece and a valid square to make a move!</em>
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
