@@ -23,19 +23,7 @@
 - 🌐 Check out my portfolio: [mithunsurya.vercel.app](https://mithunsurya.vercel.app/)
 - 🤝 Always open for collaborations on open-source projects and exciting new ideas!
 
----
 
-### 🎵 Currently Playing
-
-<div align="center">
-  <a href="https://github.com/novatimo/github-readme-spotify">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31a54lyshmrc&cover_image=true&theme=tokyonight" alt="Spotify Now Playing" />
-  </a>
-  <br>
-  <em>(Note: To show your own status, link your Spotify at <a href="https://spotify-github-profile.vercel.app/">spotify-github-profile</a> and update the 'uid' in the image URL)</em>
-</div>
-
----
 
 ### 🛠️ Tech Stack & Skills
 
@@ -92,17 +80,7 @@
   <em>(Note: You will need to setup the <a href="https://github.com/Platane/snk">snk</a> GitHub Action to generate this snake)</em>
 </div>
 
----
 
-### 🏙️ 3D Contribution City
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/github-portfolio/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" />
-  <br>
-  <em>(Note: You will need to setup the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">3d-contrib</a> GitHub Action to generate this city graph)</em>
-</div>
-
----
 
 
 
