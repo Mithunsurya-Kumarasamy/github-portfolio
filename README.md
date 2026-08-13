@@ -63,7 +63,7 @@
 | 🌟 Project | 📝 Description | 🔗 Link |
 | --- | --- | --- |
 | **[fragment-flow-chrome-extension](https://github.com/Mithunsurya-Kumarasamy/fragment-flow-chrome-extension)** | A powerful Chrome extension for optimizing fragment workflows. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/fragment-flow-chrome-extension) |
-| **[Cfake](https://github.com/Mithunsurya-Kumarasamy/Cfake)** | C/C++ project implementation. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/Cfake) |
+| **[Cfake](https://github.com/Mithunsurya-Kumarasamy/Cfake)** | AI Vs. Real Image Analytics | [View Repo](https://github.com/Mithunsurya-Kumarasamy/Cfake) |
 | **[dual-arena-game](https://github.com/Mithunsurya-Kumarasamy/dual-arena-game)** | A unique arena game utilizing ShaderLab and engaging graphics. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/dual-arena-game) |
 
 ---
@@ -84,9 +84,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/Mithunsurya-Kumarasamy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/Mithunsurya-Kumarasamy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/Mithunsurya-Kumarasamy/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/github-portfolio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/github-portfolio/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/github-portfolio/output/github-contribution-grid-snake.svg">
   </picture>
   <br>
   <em>(Note: You will need to setup the <a href="https://github.com/Platane/snk">snk</a> GitHub Action to generate this snake)</em>
@@ -97,7 +97,7 @@
 ### 🏙️ 3D Contribution City
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/Mithunsurya-Kumarasamy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" />
+  <img src="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/github-portfolio/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" />
   <br>
   <em>(Note: You will need to setup the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">3d-contrib</a> GitHub Action to generate this city graph)</em>
 </div>
