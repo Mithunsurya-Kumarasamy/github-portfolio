@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <a href="https://mithunsurya.vercel.app/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=vercel" alt="Portfolio" /></a>
-  <a href="https://github.com/Mithunsurya-Kumarasamy"><img src="https://img.shields.io/github/followers/Mithunsurya-Kumarasamy?style=flat-square&logo=github" alt="GitHub Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Mithunsurya-Kumarasamy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://mithunsurya.vercel.app/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="https://github.com/Mithunsurya-Kumarasamy"><img src="https://img.shields.io/github/followers/Mithunsurya-Kumarasamy?style=for-the-badge&logo=github" alt="GitHub Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Mithunsurya-Kumarasamy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -20,8 +20,8 @@
 
 - Constantly learning and exploring new technologies to build robust applications.
 - Passionate about **Systems Programming**, **Machine Learning**, and performant backend engineering.
-- 🌐 Check out my portfolio: [mithunsurya.vercel.app](https://mithunsurya.vercel.app/)
-- 🤝 Always open for collaborations on open-source projects and exciting new ideas!
+- Check out my portfolio: [mithunsurya.vercel.app](https://mithunsurya.vercel.app/)
+- Always open for collaborations on open-source projects and exciting new ideas!
 
 
 
@@ -30,25 +30,25 @@
 <div align="center">
   
   **Languages**<br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/ShaderLab-404D59?style=flat-square&logo=unity&logoColor=white" alt="ShaderLab" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/ShaderLab-404D59?style=for-the-badge&logo=unity&logoColor=white" alt="ShaderLab" />
   
   <br>**Tools & Frameworks**<br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ---
 
 ### Highlighted Projects
 
-| 🌟 Project | 📝 Description | 🔗 Link |
+| Project | Description | Link |
 | --- | --- | --- |
 | **[fragment-flow-chrome-extension](https://github.com/Mithunsurya-Kumarasamy/fragment-flow-chrome-extension)** | A powerful Chrome extension for optimizing fragment workflows. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/fragment-flow-chrome-extension) |
 | **[Cfake](https://github.com/Mithunsurya-Kumarasamy/Cfake)** | AI Vs. Real Image Analytics | [View Repo](https://github.com/Mithunsurya-Kumarasamy/Cfake) |
