@@ -21,7 +21,6 @@
 - 🎓 Constantly learning and exploring new technologies to build robust applications.
 - 💡 Passionate about **Systems Programming**, **Machine Learning**, and performant backend engineering.
 - 🌐 Check out my portfolio: [mithunsurya.vercel.app](https://mithunsurya.vercel.app/)
-- 📍 Based in **Coimbatore**.
 - 🤝 Always open for collaborations on open-source projects and exciting new ideas!
 
 ---
@@ -63,9 +62,8 @@
 
 | 🌟 Project | 📝 Description | 🔗 Link |
 | --- | --- | --- |
-| **[systems-programming](https://github.com/Mithunsurya-Kumarasamy/systems-programming)** | Deep diving into C++ systems programming concepts. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/systems-programming) |
-| **[credit-risk-decision-engine](https://github.com/Mithunsurya-Kumarasamy/credit-risk-decision-engine)** | Python-based robust decision engine for analyzing credit risk. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/credit-risk-decision-engine) |
-| **[ai-vs-real-analytics](https://github.com/Mithunsurya-Kumarasamy/ai-vs-real-analytics)** | Analytics and machine learning comparisons and models. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/ai-vs-real-analytics) |
+| **[fragment-flow-chrome-extension](https://github.com/Mithunsurya-Kumarasamy/fragment-flow-chrome-extension)** | A powerful Chrome extension for optimizing fragment workflows. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/fragment-flow-chrome-extension) |
+| **[Cfake](https://github.com/Mithunsurya-Kumarasamy/Cfake)** | C/C++ project implementation. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/Cfake) |
 | **[dual-arena-game](https://github.com/Mithunsurya-Kumarasamy/dual-arena-game)** | A unique arena game utilizing ShaderLab and engaging graphics. | [View Repo](https://github.com/Mithunsurya-Kumarasamy/dual-arena-game) |
 
 ---
