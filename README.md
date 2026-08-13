@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mithun!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Systems,%20Algorithms,%20&%20Machine%20Learning&descAlignY=51&descAlign=62" alt="Header" />
 </div>
 
-<h3 align="center">Transforming ideas into elegant, efficient, and scalable code. 🚀</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Systems,+Algorithms,+%26+Machine+Learning;Transforming+ideas+into+elegant+code.+%E2%9C%A8;Passionate+about+backend+engineering.+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://mithunsurya.vercel.app/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
@@ -19,6 +23,18 @@
 - 🌐 Check out my portfolio: [mithunsurya.vercel.app](https://mithunsurya.vercel.app/)
 - 📍 Based in **Coimbatore**.
 - 🤝 Always open for collaborations on open-source projects and exciting new ideas!
+
+---
+
+### 🎵 Currently Playing
+
+<div align="center">
+  <a href="https://github.com/novatimo/github-readme-spotify">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31a54lyshmrc&cover_image=true&theme=tokyonight" alt="Spotify Now Playing" />
+  </a>
+  <br>
+  <em>(Note: To show your own status, link your Spotify at <a href="https://spotify-github-profile.vercel.app/">spotify-github-profile</a> and update the 'uid' in the image URL)</em>
+</div>
 
 ---
 
@@ -76,6 +92,16 @@
   </picture>
   <br>
   <em>(Note: You will need to setup the <a href="https://github.com/Platane/snk">snk</a> GitHub Action to generate this snake)</em>
+</div>
+
+---
+
+### 🏙️ 3D Contribution City
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mithunsurya-Kumarasamy/Mithunsurya-Kumarasamy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" />
+  <br>
+  <em>(Note: You will need to setup the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">3d-contrib</a> GitHub Action to generate this city graph)</em>
 </div>
 
 ---
