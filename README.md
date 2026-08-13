@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🎓 Constantly learning and exploring new technologies to build robust applications.
 - 💡 Passionate about **Systems Programming**, **Machine Learning**, and performant backend engineering.
@@ -25,7 +25,7 @@
 
 
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <div align="center">
   
@@ -46,7 +46,7 @@
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 | 🌟 Project | 📝 Description | 🔗 Link |
 | --- | --- | --- |
@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mithunsurya-Kumarasamy&theme=tokyonight" alt="Mithun's GitHub Stats" />
@@ -68,7 +68,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   <picture>
